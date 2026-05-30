@@ -1,0 +1,2 @@
+# Documentation markdown (source docs; PDF/Word exports are tracked separately)
+documentation/**/*.md

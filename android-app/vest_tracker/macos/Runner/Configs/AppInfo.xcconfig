@@ -1,0 +1,9 @@
+
+
+PRODUCT_NAME = vest_tracker
+
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.vestTracker
+
+
+PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.

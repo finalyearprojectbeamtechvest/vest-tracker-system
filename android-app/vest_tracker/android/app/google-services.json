@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "710547669825",
+    "firebase_url": "https://vest-tracker-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vest-tracker-system",
+    "storage_bucket": "vest-tracker-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710547669825:android:7ab23e3791bb47ca0a17c0",
+        "android_client_info": {
+          "package_name": "com.vesttracker.vest_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0WC18bVO2nE7ZupP_NKSq-qW3j6GCCpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
