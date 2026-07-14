@@ -30,7 +30,16 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+# Ignore build outputs, but keep the sideload release APK trackable.
+# (Must ignore directory *contents* with *, not /build/, or Git won't re-include nested files.)
+/build/*
+!/build/app/
+/build/app/*
+!/build/app/outputs/
+/build/app/outputs/*
+!/build/app/outputs/flutter-apk/
+/build/app/outputs/flutter-apk/*
+!/build/app/outputs/flutter-apk/app-release.apk
 /coverage/
 
 # Symbolication related
